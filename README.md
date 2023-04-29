@@ -3,4 +3,4 @@ I'm currently learning Python. This is my Python Basic pathway.  I will keep to 
 
 
 Resources
-- patika.dev ~ @enginalpdenizman
+- patika.dev ~ @engindenizalpman
